@@ -31,5 +31,5 @@ public class HomeActivity extends AppCompatActivity {
                 "Select Picture"), 1);
     }
 
-    
+
 }
